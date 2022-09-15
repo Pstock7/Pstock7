@@ -30,8 +30,6 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-    <!-- Pandas -->
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
 </p>
 
 <h1 align="center"></h3>
