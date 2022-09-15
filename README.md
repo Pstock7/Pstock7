@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
     <!-- Vim -->
     <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/></a>
-    <!-- Vim -->
+    <!-- Linux -->
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
 </p>
 
@@ -33,7 +33,9 @@ Here are some ideas to get you started:
     <!-- C++ -->
     <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+    <!-- OpenVPN -->
+    <a href="https://www.openvpn.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="docker"/></a>
 </p>
 
 <h1 align="center"></h3>
