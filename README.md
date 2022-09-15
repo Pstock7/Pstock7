@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pstock7/Pstock7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello👋, I'm Pstock7</h1>
+
+<h3 align="center"><b>I'm always learning about</b></h3>
+<p align="center">
+    <!-- Python -->
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+</p>
+
+<p align="center">
+    <!-- C -->
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
+    <!-- C++ -->
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+    <!-- Pandas -->
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
+</p>
+
+<h1 align="center"></h3>
+<p align="center">
+    <!-- Profile views -->
+    <a href="" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=pstock7&label=Profile%20views&color=0e75b6&style=flat-square" alt="falyrion"/></a>
+</p>
