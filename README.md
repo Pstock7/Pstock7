@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>I'm always learning about</b></h3>
 <p align="center">
     <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3673a2?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
     <!-- Vim -->
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!-- C -->
-    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
     <!-- C++ -->
-    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-004481?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- Docker -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
 </p>
