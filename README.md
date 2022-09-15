@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3673a2?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+    <!-- Vim -->
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/></a>
 </p>
 
 <p align="center">
