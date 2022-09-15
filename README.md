@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello👋, I'm Pstock7</h1>
 
-<h3 align="center"><b>I'm always learning about</b></h3>
+<h3 align="center"><b>I'm always learning more about</b></h3>
 <p align="center">
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
