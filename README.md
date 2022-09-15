@@ -22,9 +22,9 @@ Here are some ideas to get you started:
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
     <!-- Vim -->
-    <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=black" alt="vim"/></a>
+    <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/></a>
     <!-- Vim -->
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
 </p>
 
 <p align="center">
