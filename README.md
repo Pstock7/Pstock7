@@ -18,22 +18,22 @@ Here are some ideas to get you started:
 <h3 align="center"><b>I'm always learning about</b></h3>
 <p align="center">
     <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3673a2?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
     <!-- Java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
 </p>
 
 <p align="center">
     <!-- C -->
     <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
     <!-- C++ -->
-    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
+    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-004481?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
 </p>
 
 <h1 align="center"></h3>
 <p align="center">
     <!-- Profile views -->
-    <a href="" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=pstock7&label=Profile%20views&color=0e75b6&style=flat-square" alt="falyrion"/></a>
+    <a href="" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=pstock7&label=Profile%20views&color=0e75b6&style=flat-square" alt="pstock7"/></a>
 </p>
