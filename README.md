@@ -34,8 +34,6 @@ Here are some ideas to get you started:
     <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
     <!-- Docker -->
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-    <!-- OpenVPN -->
-    <a href="https://www.openvpn.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="docker"/></a>
 </p>
 
 <h1 align="center"></h3>
