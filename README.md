@@ -35,9 +35,3 @@ Here are some ideas to get you started:
     <!-- Docker -->
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
 </p>
-
-<h1 align="center"></h3>
-<p align="center">
-    <!-- Profile views -->
-    <a href="" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=pstock7&label=Profile%20views&color=0e75b6&style=flat-square" alt="pstock7"/></a>
-</p>
