@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
     <!-- Java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-f8981d?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+    <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/></a>
     <!-- Vim -->
     <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/></a>
     <!-- Linux -->
